@@ -15,6 +15,8 @@ sing Expert Advisors can transform your trading experience by:
 - Maximizing profit potential
 - Working with tested and optimized strategies
 
+  <br>
+
 ## 🏆 Top Expert Advisors of 2025
 
 Explore this carefully curated list of the best performing EAs for MetaTrader 4 & 5:
