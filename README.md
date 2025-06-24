@@ -29,6 +29,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 
 <br>
 <hr>
+<br>
 
 ### 2️⃣ Quantum Emperor EA
 
@@ -40,6 +41,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 
 <br>
 <hr>
+<br>
 
 ### 3️⃣ HFT Fast M1 EA
 
@@ -51,6 +53,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 
 <br>
 <hr>
+<br>
 
 ### 4️⃣ SouthEast V4.0 EA
 
@@ -62,6 +65,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 
 <br>
 <hr>
+<br>
 
 ### 5️⃣ RM-SCALPER Robot EA
 
@@ -73,6 +77,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 
 <br>
 <hr>
+<br>
 
 ### 6️⃣ VR Lollipop EA
 
@@ -80,10 +85,11 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 - Trend-reversal EA with visual signals and alerts
 - Combines indicators and logic for entry optimization.
 
-👉 More information about <a href="https://forextoolstore.com/product/vr-lollipop-forex-ea/">VR Lollipop EA</a>
+👉 More information about <a href="https://github.com/FXMastersHub/VR-Lollipop-EA">VR Lollipop EA</a>
 
 <br>
 <hr>
+<br>
 
 ### 7️⃣ Titany X Pro EA
 
@@ -91,10 +97,11 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 - Precision-engineered EA for consistent growth
 - Uses smart money concepts and institutional-level strategies
 
-👉 More information about <a href="https://forextoolstore.com/product/titany-x-prop-forex-ea/">Titany X Pro EA</a>
+👉 More information about <a href="https://github.com/FXMastersHub/Titany-X-Pro-EA">Titany X Pro EA</a>
 
 <br>
 <hr>
+<br>
 
 ### 8️⃣ Prado EA v8.2
 
@@ -102,10 +109,11 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 - Flexible EA with scalping and swing strategies built-in
 - Adapts to market structure for safer entries.
 
-👉 More information about <a href="https://forextoolstore.com/product/prado-ea/">Prado EA v8.2</a>
+👉 More information about <a href="https://github.com/FXMastersHub/Prado-EA-v8.2">Prado EA v8.2</a>
 
 <br>
 <hr>
+<br>
 
 ### 9️⃣ Crypto Investor EA
 
@@ -113,10 +121,11 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 - Crypto-focused EA for BTCUSD, ETHUSD & more
 - Designed for weekend and overnight volatility trading
 
-👉 More information about <a href="https://forextoolstore.com/product/crypto-investor/">Crypto Investor EA</a>
+👉 More information about <a href="https://github.com/FXMastersHub/Crypto-Investor">Crypto Investor EA</a>
 
 <br>
 <hr>
+<br>
 
 ### 🔟 FundedEA Quantum Premium V2 EA
 
@@ -124,10 +133,11 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 - Designed for prop firm and funded account challenges
 - Pass FTMO or MyForexFunds with ease using risk-controlled strategies.
 
-👉 More information about <a href="https://forextoolstore.com/product/fundedea-quantum-premium-v2/">FundedEA Quantum Premium V2 EA</a>
+👉 More information about <a href="https://github.com/FXMastersHub/FundedEA-Quantum-Premium-V2">FundedEA Quantum Premium V2 EA</a>
 
 <br>
 <hr>
+<br>
 
 ### 1️⃣1️⃣ Dark Algo 2.0 EA
 
@@ -138,6 +148,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 
 <br>
 <hr>
+<br>
 
 ### 1️⃣2️⃣ FT Gold Robot EA
 
@@ -149,6 +160,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 
 <br>
 <hr>
+<br>
 
 ## Support
 
