@@ -2,7 +2,7 @@
 
 
 <br>
-<hr>
+
 Welcome to the Best Forex EAs 2025 GitHub repository! This repo showcases the most effective and in-demand Forex trading tools of the year – from scalpers to swing traders, gold robots to crypto bots. Whether you're a beginner or pro, these Expert Advisors (EAs) are crafted to boost your trading strategy, improve accuracy, and automate profits.
 
 ## 🚀 Why Use Forex EAs?
