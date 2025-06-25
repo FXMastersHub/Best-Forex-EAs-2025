@@ -21,7 +21,20 @@ sing Expert Advisors can transform your trading experience by:
 
 Explore this carefully curated list of the best performing EAs for MetaTrader 4 & 5:
 
-### 1️⃣ Orion Gold Scalper EA
+### 1️⃣ Nexus v9.20 EA
+
+
+- Advanced multi-strategy trading robot for MetaTrader 5
+- Trades 8 pairs using 9 smart logic systems with no indicators.
+- Reliable, adaptive, and optimized for stable long-term profits.
+
+👉 More information about <a href="https://forextoolstore.com/product/nexus-v9-20-ea/">Nexus v9.20 EA</a>
+
+<br>
+<hr>
+<br>
+
+### 2️⃣ Orion Gold Scalper EA
 
 
 - High-frequency gold trading robot designed for XAUUSD
@@ -33,7 +46,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 2️⃣ Quantum Emperor EA
+### 3️⃣ Quantum Emperor EA
 
 
 - AI-powered EA with precision entries and smart exits
@@ -45,7 +58,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 3️⃣ HFT Fast M1 EA
+### 4️⃣ HFT Fast M1 EA
 
 
 - High-Frequency Trading bot for M1 scalping
@@ -57,7 +70,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 4️⃣ SouthEast V4.0 EA
+### 5️⃣ SouthEast V4.0 EA
 
 
 - Multi-pair EA with solid trend detection
@@ -69,7 +82,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 5️⃣ RM-SCALPER Robot EA
+### 6️⃣ RM-SCALPER Robot EA
 
 
 - Aggressive scalper with tight stop-loss and fast profits
@@ -81,7 +94,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 6️⃣ VR Lollipop EA
+### 7️⃣ VR Lollipop EA
 
 
 - Trend-reversal EA with visual signals and alerts
@@ -93,7 +106,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 7️⃣ Titany X Pro EA
+### 8️⃣ Titany X Pro EA
 
 
 - Precision-engineered EA for consistent growth
@@ -105,7 +118,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 8️⃣ Prado EA v8.2
+### 9️⃣ Prado EA v8.2
 
 
 - Flexible EA with scalping and swing strategies built-in
@@ -117,7 +130,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 9️⃣ Crypto Investor EA
+### 🔟 Crypto Investor EA
 
 
 - Crypto-focused EA for BTCUSD, ETHUSD & more
@@ -129,7 +142,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 🔟 FundedEA Quantum Premium V2 EA
+### 1️⃣1️⃣ FundedEA Quantum Premium V2 EA
 
 
 - Designed for prop firm and funded account challenges
@@ -141,7 +154,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 1️⃣1️⃣ Dark Algo 2.0 EA
+### 1️⃣2️⃣ Dark Algo 2.0 EA
 
 - Hidden algorithmic patterns with deep neural logic
 - No indicator-based entries — pure price action and order flow
@@ -152,7 +165,7 @@ Explore this carefully curated list of the best performing EAs for MetaTrader 4 
 <hr>
 <br>
 
-### 1️⃣2️⃣ FT Gold Robot EA
+### 1️⃣3️⃣ FT Gold Robot EA
 
 
 - Optimized for FTMO and Gold trading
